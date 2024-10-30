@@ -1,0 +1,70 @@
+# Copyright (C) 2024 KaizenCoders
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Link 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magic-link\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-08T17:47:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: magic-link\n"
+
+#. Plugin Name of the plugin
+#: lite/includes/Admin.php:72
+msgid "Magic Link"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://kaizencoders.com/magic-link"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple, Easy and Secure one click login for WordPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "KaizenCoders"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kaizencoders.com"
+msgstr ""
+
+#: lite/includes/Admin.php:81
+msgid "Generate Magic Link"
+msgstr ""
+
+#: lite/includes/Admin.php:88
+#: lite/dist/scripts/magic-link.js:20
+msgid "Copy"
+msgstr ""
+
+#: lite/includes/Frontend.php:61
+msgid "Invalid magic link token"
+msgstr ""
+
+#: lite/includes/Frontend.php:68
+msgid "Invalid User"
+msgstr ""
+
+#: lite/includes/Frontend.php:91
+msgid "Invalid Token"
+msgstr ""
+
+#: lite/includes/Helper.php:340
+msgid "MagicLink"
+msgstr ""
+
+#. translators: %s: PHP version
+#: magic-link.php:51
+msgid "Magic Link requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#: lite/dist/scripts/magic-link.js:34
+msgid "Magic link copied to clipboard!"
+msgstr ""
